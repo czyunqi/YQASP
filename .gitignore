@@ -7,3 +7,5 @@
 /temp/
 /test/
 /YQASP/
+.package.json
+.package-lock.json
